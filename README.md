@@ -18,7 +18,7 @@ Hopes it will be useful to create base of geometry to extrude or revolve in maki
 
 thank you for interest,
 
-attached image screenshots for example use and clarity,
+attached image screenshots for example usage and clarity,
 
 [<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_22_20-example1.dxf_.png" width="600"/>](image1.png)
 
