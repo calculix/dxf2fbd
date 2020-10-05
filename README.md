@@ -3,7 +3,7 @@
 
 hi,
 
-<p>i make a tool utilities, a converter of 2D AutoCAD **DXF** to CalculiX GraphiX **FBD** files called **dxf2fbd**. this small code modification and adaptation are based on works of David Colignon from GMSH source codes.</p>
+<p>i make a tool utilities, a converter of 2D AutoCAD **bold DXF** to CalculiX GraphiX **bold FBD** files called **bold dxf2fbd**. this small code modification and adaptation are based on works of David Colignon from GMSH source codes.</p>
 
 current features:
 <ul>
