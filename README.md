@@ -20,11 +20,11 @@ thank you for interest,
 
 attached image screenshot for clarify,
 
-<center>[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_22_20-example1.dxf_.png" width="600"/>](image1.png)</center>
+[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_22_20-example1.dxf_.png" width="600" #center/>](image1.png)
 
-<center>[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2021_55_36-Command%20Prompt.png" width="600"/>](image2.png)</center>
+[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2021_55_36-Command%20Prompt.png" width="600"/>](image2.png)
 
-<center>[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2021_57_51-CalculiX%20GraphiX.png" width="600"/>](image3.png)</center>
+[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2021_57_51-CalculiX%20GraphiX.png" width="600"/>](image3.png)
 
-<center>[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_03_59-CalculiX%20GraphiX.png" width="600"/>](image1.png)</center>
+[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_03_59-CalculiX%20GraphiX.png" width="600"/>](image1.png)
 
