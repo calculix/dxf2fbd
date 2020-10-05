@@ -22,7 +22,7 @@ attached image screenshots for example usage and clarity,
 
 [<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_22_20-example1.dxf_.png" width="600"/>](image1.png)
 
-[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-28%2013_42_43-Command%20Prompt2.png" width="600"/>](image2.png)
+[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-28%2014_34_56-Command%20Prompt3.png" width="600"/>](image2.png)
 
 [<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-28%2014_35_35-Source2.png" width="600"/>](image3.png)
 
