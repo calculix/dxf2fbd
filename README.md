@@ -20,7 +20,7 @@ thank you for interest,
 
 attached image screenshot for clarify,
 
-[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_22_20-example1.dxf_.png" width="600" #center/>](image1.png)
+[<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_22_20-example1.dxf_.png" width="600"/>](image1.png)
 
 [<img src="https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2021_55_36-Command%20Prompt.png" width="600"/>](image2.png)
 
