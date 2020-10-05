@@ -17,3 +17,13 @@ current features:
 Hopes it will be useful to create base of geometry to extrude or revolve in making of three dimensional models.
 
 thank you for interest,
+
+attached image screenshot for clarify,
+
+![image1](https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_22_20-example1.dxf_.png)
+
+![image1](https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2021_55_36-Command%20Prompt.png)
+
+![image1](https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2021_57_51-CalculiX%20GraphiX.png)
+
+![image1](https://github.com/xyont/dxf2fbd/blob/main/pictures/2020-09-27%2022_03_59-CalculiX%20GraphiX.png)
