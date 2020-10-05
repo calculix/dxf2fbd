@@ -7,11 +7,11 @@ hi,
 
 current features:
 <ul>
-  <li>support lines, arch & circle objects</li>
+  <li>support point, line, arch & circle objects</li>
 <li>a circle will be split automatically to four arch objects</li>
 <li>Z-offset to place at some elevation</li>
 <li>merge coincident nodes with a coordinate tolerances</li>
-<li>remove duplicated object in the same position</li>
+<li>remove duplicated object in the same exact position</li>
 </ul>
 
 <p>Hopes it will be useful to create base of geometry to extrude or revolve in making of three dimensional models.</p>
