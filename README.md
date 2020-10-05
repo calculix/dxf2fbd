@@ -3,15 +3,15 @@
 
 hi,
 
-i make a tool utilities, a converter of 2D AutoCAD DXF to CalculiX GraphiX FBD files called dxf2fbd 1 (password: calculix.discourse.group). this small code modification and adaptation are based on works of David Colignon from GMSH source codes.
+i make a tool utilities, a converter of 2D AutoCAD **bold DXF** to CalculiX GraphiX **bold FBD** files called **bold dxf2fbd**. this small code modification and adaptation are based on works of David Colignon from GMSH source codes.
 
 current features:
-
-*support lines, arch & circle objects
-*a circle will be split automatically to four arch objects
-*Z-offset to place at some elevation
-*merge coincident nodes with a coordinate tolerances
-*remove duplicated object in the same position.
+<ul>
+  <li>support lines, arch & circle objects</li>
+<li>a circle will be split automatically to four arch objects</li>
+<li>Z-offset to place at some elevation</li>
+<li>merge coincident nodes with a coordinate tolerances</li>
+<li>remove duplicated object in the same position</li>
 
 Hopes it will be useful to create base of geometry to extrude or revolve in making of three dimensional models.
 
